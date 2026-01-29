@@ -23,7 +23,7 @@ A Java-based Bus Ticket Booking System with a clean GUI that allows users to boo
 🚀 How to Run the Project
 	1.	Clone the repository
 
-git clone https://github.com/your-username/BlueBus-Ticket-Booking-System.git
+git clone [https://github.com/your-username/BlueBus-Ticket-Booking-System.git](https://github.com/mithumohan00-ship-it/BlueBus.git)
 
 
 	2.	Open the project in your Java IDE
